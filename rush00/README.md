@@ -10,4 +10,6 @@ ft_putchar.c contains the same function used for some/most of day03 and day04 ex
 
 rush03.c contains the core function that creates the rectangle, with the 'A', 'B', 'C', and ' ' characters as specified in the specs for the group project.
 
+To compile code, use the following command line (replace 'X' with the number desired): "gcc -Wall -Wextra -Werror main.c ft_putchar.c rush0X.c". Then use "./a.out" to execute!
+
 UPDATE: Added rush00.c, rush01.c, rush02.c, and rush04.c.
