@@ -1,8 +1,8 @@
 # 42-piscine
 
-My code and files for the piscine for 42.
+## Ryan Wang (42 ID: rywang)
 
-	-Ryan Wang (42 ID: rywang)
+My code and files for the piscine for 42.
 
 Current Files Uploaded:
 - Rush 00
